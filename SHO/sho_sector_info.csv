@@ -1,0 +1,763 @@
+tsymbol,sho_pilot,sector
+JJSF,1,Consumer Defensive
+PLXS,1,Technology
+ORCL,1,Technology
+MSFT,0,Technology
+HON,0,Industrials
+FO,0,Sector not available
+ASTE,1,Industrials
+WERN,0,Industrials
+T,0,Communication Services
+IRN,0,Sector not available
+SKYW,0,Industrials
+AMWD,0,Consumer Cyclical
+ADM,0,Consumer Defensive
+WTS,0,Industrials
+PTSI,0,Industrials
+HTLD,1,Industrials
+OSUR,1,Healthcare
+BC,1,Consumer Cyclical
+UIS,0,Technology
+CMVT,0,Sector not available
+NWK,0,Sector not available
+AVD,0,Basic Materials
+PLAB,1,Technology
+CRMT,0,Consumer Cyclical
+KO,1,Consumer Defensive
+SKS,0,Sector not available
+CDN,0,Sector not available
+BRL,1,Sector not available
+CNMD,1,Healthcare
+XRAY,0,Healthcare
+FAST,0,Industrials
+CRK,0,Energy
+IMKTA,1,Consumer Defensive
+DD,0,Basic Materials
+AIN,0,Consumer Cyclical
+ETN,0,Industrials
+ALCO,0,Consumer Defensive
+XOM,0,Energy
+IPAR,0,Consumer Defensive
+COKE,1,Consumer Defensive
+DY,0,Industrials
+GD,0,Industrials
+GE,0,Industrials
+LH,0,Healthcare
+GR,0,Sector not available
+GNCMA,0,Sector not available
+LNN,0,Industrials
+MGPI,0,Consumer Defensive
+IBM,0,Technology
+ITT,0,Industrials
+NL,0,Industrials
+OLN,0,Basic Materials
+PEP,1,Consumer Defensive
+MO,0,Consumer Defensive
+COP,1,Energy
+PVH,1,Consumer Cyclical
+AMGN,0,Healthcare
+ALOG,1,Sector not available
+ANEN,1,Sector not available
+APOG,1,Industrials
+CVX,0,Energy
+AAPL,0,Technology
+AMAT,0,Technology
+TKR,1,Industrials
+TR,1,Consumer Defensive
+ARDNA,0,Sector not available
+MRO,1,Energy
+VMC,0,Basic Materials
+FL,1,Consumer Cyclical
+TXN,1,Technology
+GT,1,Consumer Cyclical
+UVV,1,Consumer Defensive
+HSY,1,Consumer Defensive
+KR,1,Consumer Defensive
+BN,0,Financial Services
+CVS,0,Healthcare
+BSET,0,Consumer Cyclical
+GIS,0,Consumer Defensive
+CCK,0,Consumer Cyclical
+KMB,0,Consumer Defensive
+CW,0,Industrials
+PG,0,Consumer Defensive
+CAT,0,Industrials
+BCO,0,Industrials
+CL,1,Consumer Defensive
+BRC,0,Industrials
+FMC,0,Basic Materials
+DE,0,Industrials
+BMY,0,Healthcare
+BA,0,Industrials
+SOHU,0,Communication Services
+VVI,0,Industrials
+MTZ,0,Industrials
+BDK,0,Sector not available
+ABT,1,Healthcare
+CACH,1,Consumer Cyclical
+CALM,1,Consumer Defensive
+CRS,1,Industrials
+GCO,1,Consumer Cyclical
+LMT,0,Industrials
+NEM,0,Basic Materials
+CAH,1,Healthcare
+IP,0,Consumer Cyclical
+CAE,0,Industrials
+CASY,1,Consumer Cyclical
+PFE,1,Healthcare
+EMR,0,Industrials
+JNJ,1,Healthcare
+GLW,1,Technology
+CRDN,0,Sector not available
+PPG,0,Basic Materials
+MMM,0,Industrials
+MRK,0,Healthcare
+HNZ,0,Sector not available
+EAT,0,Consumer Cyclical
+CHD,0,Consumer Defensive
+TXT,1,Industrials
+CTAS,0,Industrials
+HAL,0,Energy
+ROH,1,Sector not available
+CCU,1,Consumer Defensive
+ASH,0,Basic Materials
+CDE,1,Basic Materials
+PBI,1,Industrials
+COHR,0,Technology
+AA,0,Basic Materials
+NOC,0,Industrials
+CPB,1,Consumer Defensive
+WHR,0,Consumer Cyclical
+KMG,0,Sector not available
+F,0,Consumer Cyclical
+DOV,1,Industrials
+CMTL,1,Technology
+DIS,1,Communication Services
+BOL,0,Sector not available
+SNS,1,Sector not available
+GAP,0,Consumer Cyclical
+K,0,Consumer Defensive
+CSL,0,Industrials
+CLF,0,Basic Materials
+CBRL,0,Consumer Cyclical
+R,1,Industrials
+AVT,0,Technology
+HPQ,0,Technology
+BAX,0,Healthcare
+XRX,0,Technology
+NC,0,Energy
+APD,0,Basic Materials
+MUR,0,Energy
+CTS,1,Technology
+ALK,0,Industrials
+ARW,1,Technology
+AIT,0,Industrials
+COHU,0,Technology
+CMC,0,Basic Materials
+OMC,0,Communication Services
+FLS,0,Industrials
+ESIO,1,Sector not available
+GLK,0,Sector not available
+HL,0,Basic Materials
+HEI,0,Industrials
+HP,1,Energy
+HOC,0,Sector not available
+HRL,0,Consumer Defensive
+HUBB,0,Industrials
+ENZN,0,Healthcare
+ENZ,1,Healthcare
+ESCA,1,Consumer Cyclical
+MAS,0,Industrials
+FARM,0,Consumer Defensive
+NPK,0,Industrials
+NR,1,Energy
+NUE,1,Basic Materials
+OXY,0,Energy
+OXM,1,Consumer Cyclical
+PKE,0,Industrials
+ROG,1,Technology
+ROL,1,Consumer Cyclical
+SEB,0,Industrials
+SHW,1,Basic Materials
+SCL,0,Basic Materials
+FELE,0,Industrials
+FUL,1,Basic Materials
+WEYS,1,Consumer Cyclical
+AGI,0,Basic Materials
+CK,1,Sector not available
+GNTX,0,Consumer Cyclical
+SKY,0,Consumer Cyclical
+SMP,0,Consumer Cyclical
+APA,0,Energy
+MAT,0,Consumer Cyclical
+GGG,1,Industrials
+BDX,0,Healthcare
+B,1,Industrials
+WY,1,Real Estate
+TEK,0,Sector not available
+IFF,0,Basic Materials
+TJX,0,Consumer Cyclical
+CMI,0,Industrials
+HVT,1,Consumer Cyclical
+HCSG,0,Healthcare
+PH,1,Industrials
+WMK,0,Consumer Defensive
+WWW,0,Consumer Cyclical
+NX,0,Industrials
+HNI,0,Industrials
+JCI,1,Industrials
+NEU,1,Basic Materials
+SJM,0,Consumer Defensive
+JBHT,0,Industrials
+ATI,1,Industrials
+SWK,1,Industrials
+MCD,0,Consumer Cyclical
+SXI,0,Industrials
+VFC,1,Consumer Cyclical
+BMS,0,Sector not available
+KMT,0,Industrials
+TFX,0,Healthcare
+AVY,1,Consumer Cyclical
+ADP,0,Technology
+INGR,0,Consumer Defensive
+DIOD,0,Technology
+SVU,0,Sector not available
+VHI,0,Basic Materials
+IGT,1,Consumer Cyclical
+SFA,0,Sector not available
+SWKS,0,Technology
+GFF,0,Industrials
+CLX,0,Consumer Defensive
+GPC,1,Consumer Cyclical
+CBT,1,Basic Materials
+KLAC,1,Technology
+KDN,0,Sector not available
+KELYA,0,Industrials
+NYT,1,Communication Services
+RML,0,Sector not available
+EBF,1,Industrials
+FSS,0,Industrials
+ABM,0,Industrials
+KLIC,0,Technology
+LZB,0,Consumer Cyclical
+LRCX,0,Technology
+MCO,0,Financial Services
+LANC,0,Consumer Defensive
+LNCE,0,Sector not available
+UNP,0,Industrials
+TGT,1,Consumer Defensive
+HRB,1,Consumer Cyclical
+DDS,1,Consumer Cyclical
+DHR,0,Healthcare
+PCH,1,Real Estate
+RRC,0,Energy
+AMN,0,Healthcare
+LEE,0,Communication Services
+TDW,1,Energy
+LLY,1,Healthcare
+SMTC,1,Technology
+WGO,0,Consumer Cyclical
+MTW,1,Industrials
+TER,0,Technology
+MCS,0,Communication Services
+MLP,0,Real Estate
+SYY,1,Consumer Defensive
+MKC,1,Consumer Defensive
+RHI,0,Industrials
+THC,0,Healthcare
+SUP,1,Consumer Cyclical
+EFX,1,Industrials
+GWW,1,Industrials
+LEN,0,Consumer Cyclical
+HAS,1,Consumer Cyclical
+IPG,0,Communication Services
+GRC,1,Industrials
+MU,0,Technology
+MSCC,1,Sector not available
+PHM,0,Consumer Cyclical
+MSA,1,Industrials
+OHB,0,Sector not available
+AIR,0,Industrials
+RDK,0,Sector not available
+MOLX,0,Sector not available
+TRN,0,Industrials
+RI,0,Sector not available
+WMT,1,Consumer Defensive
+NAFC,1,Sector not available
+FTO,0,Sector not available
+LPX,1,Industrials
+CAG,0,Consumer Defensive
+ITW,1,Industrials
+FRK,1,Sector not available
+TRC,0,Industrials
+GLT,1,Basic Materials
+NKE,0,Consumer Cyclical
+VSH,1,Technology
+NDSN,0,Industrials
+JWN,0,Consumer Cyclical
+TEX,0,Industrials
+LUV,0,Industrials
+OII,0,Energy
+GPS,0,Consumer Cyclical
+KEX,1,Industrials
+OLG,0,Sector not available
+INTC,1,Technology
+SXT,0,Basic Materials
+MDT,0,Healthcare
+OMI,1,Healthcare
+SNA,0,Industrials
+PCAR,1,Industrials
+TTC,1,Industrials
+FDX,0,Industrials
+UWN,0,Sector not available
+ADI,0,Technology
+LEG,1,Consumer Cyclical
+NWL,0,Consumer Defensive
+AMD,1,Technology
+DCI,1,Industrials
+LOW,0,Consumer Cyclical
+BIO,1,Healthcare
+HXL,0,Industrials
+PAYX,1,Technology
+DLX,0,Communication Services
+PNR,1,Industrials
+TMO,0,Healthcare
+CSX,1,Industrials
+WST,1,Healthcare
+WEN,1,Consumer Cyclical
+AGYS,1,Technology
+DCO,0,Industrials
+POWL,1,Industrials
+TDS,0,Communication Services
+CHE,1,Healthcare
+NSC,0,Industrials
+KWR,0,Basic Materials
+DRS,0,Industrials
+HOV,0,Consumer Cyclical
+UNF,1,Industrials
+RPM,0,Basic Materials
+MYE,0,Consumer Cyclical
+AOS,1,Industrials
+COO,1,Healthcare
+VZ,0,Communication Services
+HD,1,Consumer Cyclical
+WSO,1,Industrials
+WDC,0,Technology
+RES,0,Energy
+SHLM,1,Sector not available
+STZ,1,Consumer Defensive
+KBH,1,Consumer Cyclical
+TOL,1,Consumer Cyclical
+ECL,0,Basic Materials
+PPC,1,Consumer Defensive
+SON,0,Consumer Cyclical
+NHC,0,Healthcare
+SR,0,Utilities
+SVC,0,Real Estate
+SYK,1,Healthcare
+RGR,1,Industrials
+VOXX,0,Technology
+PII,1,Consumer Cyclical
+VGR,1,Consumer Defensive
+MAN,0,Industrials
+USM,0,Communication Services
+MTH,0,Consumer Cyclical
+TNC,0,Industrials
+MIDD,1,Industrials
+ADBE,0,Technology
+MRTN,0,Industrials
+ODP,0,Consumer Cyclical
+IEX,0,Industrials
+CRUS,0,Technology
+TG,1,Industrials
+CGNX,0,Technology
+TECH,0,Healthcare
+EOG,1,Energy
+DGII,1,Technology
+LSCC,1,Technology
+CSCO,0,Technology
+THO,1,Consumer Cyclical
+HOLX,0,Healthcare
+MATR,0,Sector not available
+TTI,0,Energy
+VICR,1,Technology
+GVA,0,Industrials
+ASPT,0,Technology
+TYL,0,Technology
+BHE,0,Technology
+TRMB,0,Technology
+EXPO,0,Industrials
+MTRX,1,Industrials
+AN,0,Consumer Cyclical
+MMSI,0,Healthcare
+ESE,0,Technology
+SONC,0,Sector not available
+MLI,0,Industrials
+QDEL,0,Healthcare
+AZO,0,Consumer Cyclical
+REGN,0,Healthcare
+X,0,Basic Materials
+LCUT,0,Consumer Cyclical
+IDXX,0,Healthcare
+RGS,1,Consumer Cyclical
+ALKS,1,Healthcare
+VRTX,1,Healthcare
+MNRO,1,Consumer Cyclical
+PRGS,0,Technology
+ZBRA,1,Technology
+HAE,0,Healthcare
+BIIB,1,Healthcare
+FCFS,0,Financial Services
+AAON,1,Industrials
+ODFL,0,Industrials
+WNC,1,Industrials
+OI,1,Consumer Cyclical
+JBSS,0,Consumer Defensive
+AMSC,0,Industrials
+QCOM,0,Technology
+PRGO,0,Healthcare
+TTEK,0,Industrials
+GILD,0,Healthcare
+ABAX,0,Sector not available
+SMG,0,Basic Materials
+ROP,0,Technology
+SCHL,1,Communication Services
+SNPS,0,Technology
+TWX,1,Sector not available
+ICUI,0,Healthcare
+MHK,0,Consumer Cyclical
+KOPN,1,Technology
+BKE,0,Consumer Cyclical
+BSX,1,Healthcare
+KSS,1,Consumer Cyclical
+STE,0,Healthcare
+DHI,0,Consumer Cyclical
+FINL,1,Sector not available
+FCEL,0,Industrials
+SBUX,0,Consumer Cyclical
+TSN,0,Consumer Defensive
+CENT,1,Consumer Defensive
+LAYN,0,Sector not available
+CAKE,1,Consumer Cyclical
+LFUS,0,Technology
+MTX,0,Basic Materials
+PDCO,0,Healthcare
+STLY,0,Financial Services
+KAI,0,Industrials
+LGND,0,Healthcare
+SM,0,Energy
+BBOX,1,Sector not available
+ULBI,1,Industrials
+UEIC,0,Technology
+INTU,1,Technology
+LSTR,1,Industrials
+MCHP,0,Technology
+SCVL,0,Consumer Cyclical
+CHDN,0,Consumer Cyclical
+SGA,1,Communication Services
+FOSL,0,Consumer Cyclical
+JBL,1,Technology
+ORLY,1,Consumer Cyclical
+SANM,0,Technology
+ATR,1,Healthcare
+PERY,0,Sector not available
+PZZA,0,Consumer Cyclical
+ACAI,1,Financial Services
+BWA,0,Consumer Cyclical
+MOV,1,Consumer Cyclical
+UHS,0,Healthcare
+CAL,1,Consumer Cyclical
+DECK,1,Consumer Cyclical
+IT,1,Technology
+PTN,0,Healthcare
+BYD,1,Consumer Cyclical
+NVR,1,Consumer Cyclical
+ITRI,0,Technology
+FWRD,0,Industrials
+PTEN,0,Energy
+ROCK,0,Industrials
+UFPI,1,Basic Materials
+URBN,0,Consumer Cyclical
+HHS,1,Industrials
+INCY,1,Healthcare
+MHO,1,Consumer Cyclical
+NFX,0,Sector not available
+SHOO,0,Consumer Cyclical
+EMN,0,Basic Materials
+VMI,0,Industrials
+HAIN,0,Consumer Defensive
+ALB,0,Basic Materials
+BZH,0,Consumer Cyclical
+MLM,0,Basic Materials
+RYN,0,Real Estate
+DAKT,0,Technology
+TSCO,0,Consumer Cyclical
+EMMS,0,Communication Services
+BCRX,0,Healthcare
+CPRT,1,Industrials
+NNBR,1,Industrials
+SCSC,0,Technology
+EXP,0,Basic Materials
+SYPR,0,Consumer Cyclical
+NKTR,0,Healthcare
+SSCC,0,Sector not available
+PENN,1,Consumer Cyclical
+SSD,0,Basic Materials
+GBX,1,Industrials
+MATW,1,Industrials
+ADTN,0,Technology
+AMED,1,Healthcare
+RS,0,Basic Materials
+SIRI,0,Communication Services
+DAR,1,Consumer Defensive
+AZPN,0,Technology
+SSYS,0,Technology
+MCK,0,Healthcare
+UHAL,1,Industrials
+VECO,1,Technology
+NSIT,1,Technology
+STRT,1,Consumer Cyclical
+WDFC,0,Basic Materials
+DLTR,1,Consumer Defensive
+HLIT,0,Technology
+DRI,0,Consumer Cyclical
+WAB,1,Industrials
+LECO,0,Industrials
+RMD,0,Healthcare
+SBGI,0,Communication Services
+FCX,1,Basic Materials
+IART,0,Healthcare
+KFRC,0,Industrials
+DVA,0,Healthcare
+MYGN,0,Healthcare
+POOL,0,Industrials
+RSYS,1,Sector not available
+AEIS,1,Industrials
+HSIC,0,Healthcare
+IVAC,0,Industrials
+NTAP,0,Technology
+SAM,0,Consumer Defensive
+EL,1,Consumer Defensive
+WAT,1,Healthcare
+EME,0,Industrials
+IPXL,0,Sector not available
+LTRE,1,Consumer Defensive
+WSTL,1,Technology
+MSM,1,Industrials
+WSM,0,Consumer Cyclical
+CSGS,0,Technology
+IRM,0,Real Estate
+RCI,0,Communication Services
+DST,0,Sector not available
+GEF,1,Consumer Cyclical
+CENX,0,Basic Materials
+HUBG,0,Industrials
+KVHI,0,Technology
+TUP,0,Consumer Cyclical
+AKSY,0,Sector not available
+EXAC,0,Sector not available
+FCN,0,Industrials
+JAKK,0,Consumer Cyclical
+NBIX,1,Healthcare
+ULGX,0,Healthcare
+FDS,1,Financial Services
+WOR,1,Industrials
+ANSS,1,Technology
+RUSHB,1,Consumer Cyclical
+GERN,1,Healthcare
+PEGA,1,Technology
+STRA,1,Consumer Defensive
+GES,0,Consumer Cyclical
+LAMR,0,Real Estate
+MVIS,0,Technology
+TTEC,1,Technology
+ANF,0,Consumer Cyclical
+GTN,0,Communication Services
+USNA,0,Consumer Defensive
+TGI,1,Industrials
+HIBB,0,Consumer Cyclical
+LIN,1,Basic Materials
+NUS,0,Consumer Defensive
+SSP,1,Communication Services
+FORR,1,Industrials
+SEAC,0,Technology
+STLD,0,Basic Materials
+UNFI,0,Consumer Defensive
+LAD,0,Consumer Cyclical
+MNST,1,Consumer Defensive
+VSAT,1,Technology
+DEL,0,Sector not available
+DGX,0,Healthcare
+TEN,0,Energy
+ROK,0,Industrials
+CIEN,0,Technology
+SLGN,0,Consumer Cyclical
+MTN,1,Consumer Cyclical
+ALV,0,Consumer Cyclical
+LNG,0,Energy
+GIFI,1,Industrials
+TTWO,0,Communication Services
+APH,1,Technology
+BGC,0,Financial Services
+AMZN,0,Consumer Cyclical
+FIX,0,Industrials
+MMS,0,Industrials
+RL,1,Consumer Cyclical
+CXW,0,Industrials
+AME,0,Industrials
+VLO,1,Energy
+SYNT,0,Sector not available
+YUM,0,Consumer Cyclical
+FARO,0,Technology
+PLCE,0,Consumer Cyclical
+DRQ,0,Energy
+GPI,1,Consumer Cyclical
+SRI,0,Consumer Cyclical
+CCRD,0,Technology
+CHRW,0,Industrials
+OSIS,0,Technology
+MTD,0,Healthcare
+SAH,0,Consumer Cyclical
+ADSK,0,Technology
+URI,0,Industrials
+POWI,0,Technology
+CECO,0,Industrials
+MRCY,0,Industrials
+VRSN,0,Technology
+PWR,1,Industrials
+SCS,1,Industrials
+GNSS,0,Technology
+COLM,0,Consumer Cyclical
+CIX,0,Industrials
+MAR,0,Consumer Cyclical
+BBY,0,Consumer Cyclical
+SEE,0,Consumer Cyclical
+CRAI,0,Industrials
+MANH,0,Technology
+AMKR,0,Technology
+AMT,0,Real Estate
+HZO,0,Consumer Cyclical
+BEBE,1,Industrials
+CTSH,1,Technology
+MSTR,0,Technology
+BELFB,0,Technology
+ELON,1,Sector not available
+CSGP,0,Real Estate
+CVG,0,Sector not available
+CCI,0,Real Estate
+EBAY,1,Consumer Cyclical
+AXL,0,Consumer Cyclical
+NVDA,0,Technology
+KFY,0,Industrials
+MTEX,1,Consumer Defensive
+MKSI,1,Technology
+CNX,0,Energy
+EXTR,0,Technology
+HSII,0,Industrials
+WCC,0,Industrials
+LPNT,1,Sector not available
+TRI,0,Industrials
+SKX,0,Consumer Cyclical
+FFIV,0,Technology
+JNPR,0,Technology
+SBAC,1,Real Estate
+UTHR,1,Healthcare
+LII,0,Industrials
+DSS,1,Consumer Cyclical
+COST,1,Consumer Defensive
+BMRN,0,Healthcare
+MDRX,0,Healthcare
+SALM,0,Communication Services
+DVN,0,Energy
+FLWS,0,Consumer Cyclical
+NTCT,0,Technology
+SKE,0,Basic Materials
+AKAM,1,Technology
+PLUG,1,Industrials
+TPC,0,Industrials
+A,1,Healthcare
+TDY,1,Technology
+UPS,0,Industrials
+DMRC,1,Technology
+RDI,1,Communication Services
+PKG,0,Consumer Cyclical
+AGEN,0,Healthcare
+BBGI,0,Communication Services
+EW,0,Healthcare
+EXPD,0,Industrials
+SLAB,0,Technology
+UTSI,0,Technology
+EXEL,0,Healthcare
+PXLW,1,Technology
+CRL,0,Healthcare
+CYH,0,Healthcare
+ISRG,1,Healthcare
+ACLS,0,Technology
+ENTG,1,Technology
+ILMN,0,Healthcare
+KERX,1,Sector not available
+EVC,0,Communication Services
+BRKR,0,Healthcare
+CRIS,0,Healthcare
+ISSC,1,Industrials
+DRRX,0,Healthcare
+TTMI,1,Technology
+JKHY,1,Technology
+WW,1,Consumer Cyclical
+SHEN,0,Communication Services
+RIGL,0,Healthcare
+FLR,1,Industrials
+ALGN,1,Healthcare
+GPN,0,Industrials
+MPX,1,Consumer Cyclical
+OIS,1,Energy
+FLO,1,Consumer Defensive
+GEG,0,Financial Services
+IDT,0,Communication Services
+FTI,1,Energy
+PDFS,0,Technology
+FALC,0,Technology
+OMCL,0,Healthcare
+L,1,Financial Services
+CCRN,1,Healthcare
+AYI,1,Industrials
+AAP,0,Consumer Cyclical
+WTW,0,Financial Services
+SYNA,0,Technology
+GME,0,Consumer Cyclical
+ABG,0,Consumer Cyclical
+JBLU,1,Industrials
+NFLX,0,Communication Services
+VRNT,1,Technology
+NPO,0,Industrials
+BGFV,1,Consumer Cyclical
+KIRK,0,Consumer Cyclical
+RRGB,0,Consumer Cyclical
+LYTS,0,Technology
+KMX,0,Consumer Cyclical
+CMCSA,0,Communication Services
+WYNN,0,Consumer Cyclical
+DKS,1,Consumer Cyclical
+PRAA,0,Financial Services
+EQIX,0,Real Estate
+FORM,0,Technology
+IPAS,1,Sector not available
+NTGR,0,Technology
+GPK,0,Consumer Cyclical
+CRI,0,Consumer Cyclical
+SNX,0,Technology
+CONN,0,Consumer Cyclical
+MGRC,0,Industrials
+NXST,1,Communication Services
+CMP,0,Basic Materials
+KRO,0,Basic Materials
+TPX,0,Consumer Cyclical
+UTI,0,Consumer Defensive
+PETS,1,Healthcare
+DVAX,0,Healthcare
+MCHX,0,Communication Services
+CORT,0,Healthcare
+CYTK,1,Healthcare
+INTX,0,Sector not available
+OSK,0,Industrials
+ROST,0,Consumer Cyclical
